@@ -1,0 +1,5 @@
+python-telegram-bot==22.3
+openai==1.98.0
+psutil==7.0.0
+python-dotenv==1.1.1
+matplotlib==3.10.5

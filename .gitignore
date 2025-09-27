@@ -1,0 +1,25 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Distribution directories
+dist/
+build/
+*.egg-info/
+
+# Virtual environment directories
+venv/
+env/
+*.venv/
+*.env/
+
+# IDE files
+.idea/
+.vscode/
+
+# Miscellaneous files
+sircheckalot.service
+.env
+*.db
+*.log.*
+*.log
