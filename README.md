@@ -5,6 +5,8 @@
 SirCheckalot is a system (Linux) monitoring bot that provides system status reports through Telegram, enhanced with AI-powered text processing for better readability and insights (that part is just for fun honestly).  
 It includes alerting system that monitors RAID arrays, CPU and GPU (Nvidia) usage, and temperatures, sending notifications when issues are detected.
 
+![Dashboard example](https://i.imgur.com/8f9dHrS.jpeg)
+
 ## ✨ Features
 
 ### 📊 System Monitoring
